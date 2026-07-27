@@ -1,0 +1,6 @@
+# Directories
+*.dev/
+build/
+
+# Files
+*.dev
