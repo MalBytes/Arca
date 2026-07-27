@@ -83,4 +83,4 @@ Issues, feature requests, and pull requests are always welcome.
 
 ## License
 
-Licensed under the MIT License.
+Licensed under the [MIT License](LICENSE).
